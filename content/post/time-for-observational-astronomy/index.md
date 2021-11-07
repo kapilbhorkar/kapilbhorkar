@@ -13,3 +13,7 @@ image:
   preview_only: false
 ---
 Kapil is selcted for ARIES Training School on Observational Astronomy ([ATSOA 2014](https://atsoa-archive.bose.dev/atsoa-album/14-pages/94-atsoa-2014-album)) organised by [Aryabhatta Research Institute of Observational Sciences: ARIES.](https://www.aries.res.in/aries-0)
+
+## License
+
+Copyright 2021-present [kapilbhorkar](https://georgecushen.com). Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
