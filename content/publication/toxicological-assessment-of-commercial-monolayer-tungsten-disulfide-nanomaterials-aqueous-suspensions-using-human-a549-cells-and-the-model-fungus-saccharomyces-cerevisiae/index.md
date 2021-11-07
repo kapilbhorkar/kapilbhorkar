@@ -17,10 +17,12 @@ doi: 10.1016/j.chemosphere.2021.129603
 publication_short: B. Domi, K. Bhorkar, C. Rumbo et al., Chemosphere 272 (2021) 1296032
 draft: false
 featured: false
+tags:
+  - nano toxicity
 categories:
   - Nano-toxicity
 projects:
-  - Physics-chemical characterisation of nano materials
+  - Physics-chemical characterisation of nanomaterials
 image:
   filename: ""
   focal_point: ""
