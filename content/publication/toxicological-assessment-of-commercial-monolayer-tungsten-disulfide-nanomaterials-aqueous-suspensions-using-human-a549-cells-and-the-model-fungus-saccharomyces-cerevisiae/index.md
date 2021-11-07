@@ -22,7 +22,7 @@ tags:
 categories:
   - Nano-toxicity
 projects:
-  - Physics-chemical characterisation of nanomaterials
+  - Physico-chemical characterisation of nanomaterials
 image:
   filename: ""
   focal_point: ""
