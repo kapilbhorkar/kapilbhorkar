@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 2D materials (Graphene, TMDs), Laser assisted growth, chemical vapor deposition
   icon: atom
-  icon_pack: fab
+  icon_pack: fas
   name: Materials synthesis
 - description: Raman Spectrosocopy, Scanning Electron Microscopy, UV-Vis-NIR Spectrosocpy
   icon: microscope
