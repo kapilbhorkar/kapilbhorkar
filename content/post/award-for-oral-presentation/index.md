@@ -8,7 +8,7 @@ tags:
 categories:
   - Achievements
 image:
-  filename: ""
+  filename: kapil-bhorkar.jpg
   focal_point: ""
   preview_only: false
 ---
