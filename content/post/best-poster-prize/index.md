@@ -3,6 +3,10 @@ title: Best Poster prize!
 date: 2021-11-07T12:11:46.482Z
 draft: false
 featured: false
+tags:
+  - Academic
+categories:
+  - Achievements
 image:
   filename: ""
   focal_point: ""
