@@ -15,6 +15,12 @@ doi: 10.1088/1361-6528/aba6b3
 publication_short: B Domi et al, Nanotechnology 31 (2020) 445101 (13pp)
 draft: false
 featured: false
+tags:
+  - nano toxicity
+categories:
+  - nano toxicity
+projects:
+  - Physico-chemical characterisation of nano materials
 image:
   filename: ""
   focal_point: ""
