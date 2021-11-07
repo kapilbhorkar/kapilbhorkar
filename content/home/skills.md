@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 2D materials (Graphene, TMDs), Laser assisted growth, chemical vapor deposition
+  icon: atom
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: Materials synthesis
+- description: Raman Spectrosocopy, Scanning Electron Microscopy, UV-Vis-NIR Spectrosocpy
+  icon: microscope
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Materials characterisation
+- description: Tribo-electric nano-generators and self-powered sensors
+  icon: microchip
   icon_pack: fas
-  name: Photography
+  name: Applications
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
