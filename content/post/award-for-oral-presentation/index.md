@@ -4,9 +4,9 @@ date: 2021-11-07T12:15:41.901Z
 draft: false
 featured: false
 tags:
-  - academic
+  - Academic
 categories:
-  - achievements
+  - Achievements
 image:
   filename: ""
   focal_point: ""
