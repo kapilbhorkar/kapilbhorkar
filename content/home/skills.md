@@ -20,7 +20,7 @@ feature:
   icon: atom
   icon_pack: fas
   name: Materials synthesis
-- description: Raman Spectrosocopy, Scanning Electron Microscopy, UV-Vis-NIR Spectrosocpy
+- description: Raman Spectroscopy, Scanning Electron Microscopy, UV-Vis-NIR Spectroscopy
   icon: microscope
   icon_pack: fas
   name: Materials characterisation
