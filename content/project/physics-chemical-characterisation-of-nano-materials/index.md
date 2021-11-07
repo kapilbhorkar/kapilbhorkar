@@ -1,5 +1,5 @@
 ---
-title: Physics-chemical characterisation of nano materials
+title: Physico-chemical characterisation of nano materials
 date: 2021-11-07T12:20:20.893Z
 draft: false
 featured: false
