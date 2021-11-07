@@ -18,6 +18,8 @@ draft: false
 featured: false
 tags:
   - Nano-toxicity
+categories:
+  - Nano-toxicity
 projects:
   - Physico-chemical characterisation of nanomaterials
 image:
