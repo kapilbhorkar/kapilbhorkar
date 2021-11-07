@@ -34,13 +34,13 @@ coordinates:
   longitude: '21.80917'
 directions: Office Gamma-117
 office_hours:
-  - ''
-  - ''
+  - 
+  - 
 appointment_url: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Follow me
     link: 'https://twitter.com/kapilbhorkar'
   - icon: 
     icon_pack: 
